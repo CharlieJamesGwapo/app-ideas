@@ -23,4 +23,4 @@ Generate passwords based on certain characteristics selected by the user.
 
 - [Password Generator by Florin Pop on Codepen](https://codepen.io/FlorinPop17/full/BaBePej)
 - [PasswordGenerator](https://passwordsgenerator.net)
-- [Enhanced Password Generator by Snehal Mahasagar] (https://github.com/Snehalmahasagar/Random-Password_Generator)
+- [Enhanced Password Generator by Snehal Mahasagar](https://github.com/Snehalmahasagar/Random-Password_Generator)
